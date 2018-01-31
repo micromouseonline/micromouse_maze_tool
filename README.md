@@ -237,6 +237,6 @@ You can't fool shasum. If they are different by even one bit, the sha1 checksum 
 I will need suggestions from others for a suitable method on Windows systems.
 
 ## Bulk Conversions
-The bash scripth `convert.sh` will process al the binary maze files in a folder and convert them to both text and cfile format.
+The bash script `convert.sh` will process all the binary maze files in a folder and convert them to both text and cfile format.
 
 The destination folder names are hard-coded into the script and will need editing before use. Windows users will, I am afraid have to make their own arrangements. Anyone reading this who would like to contribute Windows scripts should feel free to do so.
