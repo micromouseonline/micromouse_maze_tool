@@ -27,7 +27,7 @@
 
 #include <cstdlib>
 #include <cstdio>
-#include <string>
+#include <cstring>
 #include <getopt.h>
 #include <libgen.h>
 #include <iostream>
